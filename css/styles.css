@@ -96,6 +96,7 @@ div#menu{
     background-color: #987657;
 }
 div.contacto{
+    margin:  0 auto;
     width: 90%;
     padding: 10px;
     display: flex;
